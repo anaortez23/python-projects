@@ -1,5 +1,5 @@
 
-number = float(input('Enter your number:'));
+number = float(input('Enter your number:'))
 
 if number > 0:
     print('Number input is positive')
@@ -9,3 +9,5 @@ elif number == 0:
 
 else:
     print('Number is negative')
+
+    # hello there
