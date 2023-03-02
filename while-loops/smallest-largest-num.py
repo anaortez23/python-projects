@@ -1,6 +1,7 @@
 
 num = int(input('Enter a number:'))
 if num != -99:
+
     greater = num
     smaller = num
 
