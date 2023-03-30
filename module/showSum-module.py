@@ -1,6 +1,6 @@
 
 def main():
-    print("The sum is")
+    print("The sum of 12 and 45 is:")
     showSum(12, 45)
 
 
